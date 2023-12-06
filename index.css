@@ -1,0 +1,44 @@
+.body {
+    margin: 0;
+}
+
+.header {
+    width: 709px;
+    height: 90px;
+    background: #424141;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    color: #FFF;
+    text-align: center;
+    font-size: 64px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    background-image: url(./1.png);
+    width: 708px;
+    height: 399px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.koin {
+    width: 709px;
+    height: 50px;
+    background: #424141;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.koin-text {
+    color: #FFF;
+    margin: 0;
+    font-size: 40px;
+    text-align: center;
+}
